@@ -86,5 +86,5 @@ print_hi('Tom')
 
 $$ X \leftarrow Y_n$$
 
-This is a math variable $X_2 = \frac{1}{2}$. 
+Inline Math <span> $X_2 = \frac{1}{2}$ </span>. 
 
