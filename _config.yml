@@ -45,6 +45,7 @@ navigation:
     - title: About
       url: /about
 
-
+kramdown:
+  math_engine: mathjax
 
 
