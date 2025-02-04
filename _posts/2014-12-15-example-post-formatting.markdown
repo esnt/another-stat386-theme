@@ -86,5 +86,7 @@ print_hi('Tom')
 
 $$ X \leftarrow Y_n$$
 
-Inline Math <span> $X_2 = \frac{1}{2}$ </span>. 
+Inline Math  \\(X_2 = \frac{1}{2}\\) . 
+Inline Math 2: $E=MC^2$
+Hello Math: $$\frac{1}{X} = X^{-1}$$
 
