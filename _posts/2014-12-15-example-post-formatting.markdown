@@ -81,3 +81,9 @@ print_hi('Tom')
 </figure>
 {%- endhighlight -%}
 
+## Math
+
+$$ X \leftarrow Y_n$$
+
+This is a math variable $X_2 = \frac{1}{2}$. 
+
